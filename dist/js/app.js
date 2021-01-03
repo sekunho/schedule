@@ -22,6 +22,11 @@ function schedules() {
                 this.isLoading = false
             });
         },
+        isPast(datetime) {
+            let now = luxon.DateTime.utc()
+
+            datetime < now
+        },
         toRelative(datetime) {
             let now = luxon.DateTime.utc()
             let cue = "Starts"
@@ -29,7 +34,7 @@ function schedules() {
             if (datetime < now) {
                 cue = "Started"
             }
-            
+
             return `${cue} ${datetime.toRelative()}`
         }
     }
