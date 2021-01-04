@@ -1,12 +1,17 @@
 [
     {
-        "title": "Programming Stream - Making Schedule List",
+        "title": "[Programming] Making Schedule List",
         "description": "I make schedule cause me lazy",
         "start": "2021-01-03T18:30:00+08:00"
     },
     {
-        "title": "Breath of the Wild",
+        "title": "[Gaming] Breath of the Wild",
         "description": "We shall continue on our journey to save the kingdom of Hyrule.",
         "start": "2021-01-04T18:30:00+08:00"
+    },
+    {
+        "title": "[Programming] Hall of Awesome",
+        "description": "We'll be making a hall of fame for followers/moderators/VIPs on the website! Just to show my gratitude for everyone. :)",
+        "start": "2021-01-05T17:00:00+08:00"
     }
 ]
