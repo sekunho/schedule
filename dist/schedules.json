@@ -10,8 +10,13 @@
         "start": "2021-01-04T18:30:00+08:00"
     },
     {
-        "title": "[Programming] Hall of Awesome",
-        "description": "We'll be making a hall of fame for followers/moderators/VIPs on the website! Just to show my gratitude for everyone. :)",
+        "title": "[Programming - 100DaysOfHaskell #1] Redo Schedule List in Haskell",
+        "description": "We'll be redoing the schedule list using a Haskell framework. It'll also be the start of the 100DaysOfHaskell challenge.",
         "start": "2021-01-05T17:00:00+08:00"
+    },
+    {
+        "title": "[Programming - 100DaysOfHaskell #2] Hall of Awesome",
+        "description": "We'll be making a hall of fame for followers/moderators/VIPs on the website! Just to show my gratitude for everyone. :)",
+        "start": "2021-01-06T17:00:00+08:00"
     }
 ]
