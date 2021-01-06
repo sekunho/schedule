@@ -23,5 +23,10 @@
         "title": "[Programming - 100DaysOfHaskell #3] Functors, Applicatives, and Monads",
         "description": "Gonna take a step back from web development, and I'm going to (hopefully) complete Kowainik's Learn4Haskell's chapter 4.",
         "start": "2021-01-07T16:00:00+08:00"
+    },
+    {
+        "title": "[Programming - 100DaysOfHaskell #4] Going through TypeClasses' Beginner Crash Course",
+        "description": "To further solidify my basic Haskell fundamentals.",
+        "start": "2021-01-08T16:00:00+08:00"
     }
 ]
