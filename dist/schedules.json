@@ -15,8 +15,13 @@
         "start": "2021-01-05T16:00:00+08:00"
     },
     {
-        "title": "[Programming - 100DaysOfHaskell #2] List of Schedules in Haskell",
-        "description": "Continuation of the schedule list for my stream.",
-        "start": "2021-01-06T17:00:00+08:00"
+        "title": "[Programming - 100DaysOfHaskell #2] Schedule List's Authentication & Authorization",
+        "description": "We'll be dealing with auth stuff, and hopefully we'll be able to redo the admin dashboard. Also will update a bunch of styles!",
+        "start": "2021-01-06T16:00:00+08:00"
+    },
+    {
+        "title": "[Programming - 100DaysOfHaskell #3] Functors, Applicatives, and Monads",
+        "description": "Gonna take a step back from web development, and I'm going to (hopefully) complete Kowainik's Learn4Haskell's chapter 4.",
+        "start": "2021-01-07T16:00:00+08:00"
     }
 ]
