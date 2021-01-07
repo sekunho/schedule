@@ -20,13 +20,18 @@
         "start": "2021-01-06T16:00:00+08:00"
     },
     {
-        "title": "[Programming - 100DaysOfHaskell #3] Reviewing Functors, and Applicatives; Study Monads",
-        "description": "Time to conquer the Monad Dragon.",
+        "title": "[Programming - 100DaysOfHaskell #3] Reviewing Kinds, Functors, and Applicatives",
+        "description": "Wasn't able to tackle monads in this one, but I finally understood what kinds are. I also reviewed functors, and applicatives.",
         "start": "2021-01-07T16:00:00+08:00"
     },
     {
-        "title": "[Programming - 100DaysOfHaskell #4] Going through TypeClasses' Beginner Crash Course",
-        "description": "To further solidify my basic Haskell fundamentals.",
+        "title": "[Programming - 100DaysOfHaskell #4] Killing the Monad Dragon",
+        "description": "Time to conquer the Monad Dragon.",
         "start": "2021-01-08T16:00:00+08:00"
+    },
+    {
+        "title": "[Programming - 100DaysOfHaskell #5] Reviewing fundamentals with TypeClasses (the site)",
+        "description": "I think I'm rusty with some of the basic concepts, and I'd like to review the topics I've just learned using a different resource.",
+        "start": "2021-01-09T16:00:00+08:00"
     }
 ]
