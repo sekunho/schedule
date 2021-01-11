@@ -33,5 +33,15 @@
         "title": "[Programming - 100DaysOfHaskell #5] Reviewing fundamentals with TypeClasses (the site)",
         "description": "I think I'm rusty with some of the basic concepts, and I'd like to review the topics I've just learned using a different resource.",
         "start": "2021-01-09T16:00:00+08:00"
+    },
+    {
+        "title": "[Programming - 100DaysOfHaskell #5] Figuring out (->) t a for <*>",
+        "description": "This was an interesting thought experiment that justosophy raised, and I wanna figure out why.",
+        "start": "2021-01-10T01:00:00+08:00"
+    },
+    {
+        "title": "[Programming - 100DaysOfHaskell #5] New projec with IHP",
+        "description": "I'll be starting a new project with IHP.",
+        "start": "2021-01-11T19:00:00+08:00"
     }
 ]
