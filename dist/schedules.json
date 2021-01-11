@@ -1,11 +1,11 @@
 [
     {
-        "title": "[Programming - 100DaysOfHaskell #5] Figuring out (->) t a for <*>",
+        "title": "[Programming - 100DaysOfHaskell #6] Figuring out (->) t a for <*>",
         "description": "This was an interesting thought experiment that justosophy raised, and I wanna figure out why.",
         "start": "2021-01-10T01:00:00+08:00"
     },
     {
-        "title": "[Programming - 100DaysOfHaskell #5] New project with IHP",
+        "title": "[Programming - 100DaysOfHaskell #7] New project with IHP",
         "description": "I'll be starting a new project with IHP.",
         "start": "2021-01-11T19:30:00+08:00"
     }
