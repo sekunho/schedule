@@ -1,47 +1,12 @@
 [
     {
-        "title": "[Programming] Making Schedule List",
-        "description": "I make schedule cause me lazy",
-        "start": "2021-01-03T18:30:00+08:00"
-    },
-    {
-        "title": "[Gaming] Breath of the Wild",
-        "description": "We shall continue on our journey to save the kingdom of Hyrule.",
-        "start": "2021-01-04T18:30:00+08:00"
-    },
-    {
-        "title": "[Programming - 100DaysOfHaskell #1] Redo Schedule List in Haskell",
-        "description": "We'll be redoing the schedule list using a Haskell framework. It'll also be the start of the 100DaysOfHaskell challenge.",
-        "start": "2021-01-05T16:00:00+08:00"
-    },
-    {
-        "title": "[Programming - 100DaysOfHaskell #2] Authorization, AutoRefresh, Functors, and Applicatives",
-        "description": "Add authorization, and autorefresh to the schedule list. I also started with the heavier Haskell topics like Functors, and Applicatives.",
-        "start": "2021-01-06T16:00:00+08:00"
-    },
-    {
-        "title": "[Programming - 100DaysOfHaskell #3] Reviewing Kinds, Functors, and Applicatives",
-        "description": "Wasn't able to tackle monads in this one, but I finally understood what kinds are. I also reviewed functors, and applicatives.",
-        "start": "2021-01-07T16:00:00+08:00"
-    },
-    {
-        "title": "[Programming - 100DaysOfHaskell #4] Killing the Monad Dragon",
-        "description": "Time to conquer the Monad Dragon.",
-        "start": "2021-01-08T16:00:00+08:00"
-    },
-    {
-        "title": "[Programming - 100DaysOfHaskell #5] Reviewing fundamentals with TypeClasses (the site)",
-        "description": "I think I'm rusty with some of the basic concepts, and I'd like to review the topics I've just learned using a different resource.",
-        "start": "2021-01-09T16:00:00+08:00"
-    },
-    {
         "title": "[Programming - 100DaysOfHaskell #5] Figuring out (->) t a for <*>",
         "description": "This was an interesting thought experiment that justosophy raised, and I wanna figure out why.",
         "start": "2021-01-10T01:00:00+08:00"
     },
     {
-        "title": "[Programming - 100DaysOfHaskell #5] New projec with IHP",
+        "title": "[Programming - 100DaysOfHaskell #5] New project with IHP",
         "description": "I'll be starting a new project with IHP.",
-        "start": "2021-01-11T19:00:00+08:00"
+        "start": "2021-01-11T19:30:00+08:00"
     }
 ]
