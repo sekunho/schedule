@@ -5,8 +5,8 @@
         "start": "2021-04-07T16:00:00+08:00"
     },
     {
-        "title": "[Programming - 100DaysOfHaskell #13] Start of a simple project: Joke API Wrapper",
-        "description": "It's time that I work on something more hands-on that builds towards something. I found the simplest API to make a wrapper for is the Joke API!",
+        "title": "[Programming - 100DaysOfHaskell #13] Start of a simple project: Star Wars API Wrapper",
+        "description": "It's time that I work on something more hands-on that builds towards something. I'll start with something simple.",
         "start": "2021-04-07T20:00:00+08:00"
     }
 ]
