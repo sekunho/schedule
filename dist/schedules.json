@@ -1,12 +1,12 @@
 [
     {
-        "title": "[Programming - 100DaysOfHaskell #6] Figuring out (->) t a for <*>",
-        "description": "This was an interesting thought experiment that justosophy raised, and I wanna figure out why.",
-        "start": "2021-01-10T01:00:00+08:00"
+        "title": "[Programming - 100DaysOfHaskell #13] fp-course Monad exercise",
+        "description": "I'll be working on the Monad exercise from fp-course!",
+        "start": "2021-04-07T16:00:00+08:00"
     },
     {
-        "title": "[Programming - 100DaysOfHaskell #7] New project with IHP",
-        "description": "I'll be starting a new project with IHP.",
-        "start": "2021-01-11T19:30:00+08:00"
-    }
+        "title": "[Programming - 100DaysOfHaskell #13] Start of a simple project: Joke API Wrapper",
+        "description": "It's time that I work on something more hands-on that builds towards something. I found the simplest API to make a wrapper for is the Joke API!",
+        "start": "2021-04-07T20:00:00+08:00"
+    },
 ]
