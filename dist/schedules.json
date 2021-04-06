@@ -1,12 +1,17 @@
 [
     {
-        "title": "[Programming - 100DaysOfHaskell #13] fp-course Monad exercise",
-        "description": "I'll be working on the Monad exercise from fp-course!",
+        "title": "[Programming] Machine learning",
+        "description": "I have to work on my final project for one of my classes so that I can be free from this suffering.",
         "start": "2021-04-06T15:00:00+08:00"
     },
     {
         "title": "[Programming - 100DaysOfHaskell #13] Start of a simple project: Star Wars API Wrapper",
         "description": "It's time that I work on something more hands-on that builds towards something. I'll start with something simple.",
-        "start": "2021-04-07T20:00:00+08:00"
-    }
+        "start": "2021-04-07T15:00:00+08:00"
+    },
+    {
+        "title": "[Programming - 100DaysOfHaskell #14] fp-course Monad exercise",
+        "description": "I'll be working on the Monad exercise from fp-course!",
+        "start": "2021-04-08T15:00:00+08:00"
+    },
 ]
