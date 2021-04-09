@@ -10,13 +10,19 @@
         "start": "2021-04-09T18:00:00+08:00"
     },
     {
+        "title": "[Programming] Mystery Project",
+        "description": "I wonder what this would be!",
+        "start": "2021-04-09T20:00:00+08:00"
+    },
+    
+    {
         "title": "[Programming - 100DaysOfHaskell #16] fp-course",
         "description": "Continuing the fp-course",
-        "start": "2021-04-10T20:00:00+08:00"
+        "start": "2021-04-10T18:00:00+08:00"
     },
     {
-        "title": "Stardew Valley",
-        "description": "\"Wow the first game in how many months?\" Yep.",
+        "title": "[Gaming] Stardew Valley",
+        "description": "\"Wow the first game in how many months?\" Yep. I need a break once in a while.",
         "start": "2021-04-10T20:00:00+08:00"
     }
 ]
